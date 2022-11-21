@@ -1,0 +1,581 @@
+.navbar{
+    background-color: rgba(48, 46, 45, 0.1);
+    height: 60px;
+}
+
+
+
+
+
+.hero {
+    width: 100%;
+    height: 80vh;
+    background: linear-gradient(rgba(14, 13, 13, 0.5), rgba(18, 17, 17, 0.5)), url("https://images.pexels.com/photos/7753054/pexels-photo-7753054.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+.hero-content{
+    width: 35%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    position: absolute;
+}
+
+p1{
+    color: rgba(217, 215, 215, 0.5);
+}
+
+
+img{
+    width: 30%;
+}
+
+.services{
+    padding: 50px 20px;
+   
+}
+
+.service {
+    padding: 15px;
+}
+
+.service1 {
+    background-color: #222020;
+    color: #fff;
+}
+
+.service2 {
+    background-color: #b64a4a;
+    color: #fff;
+}
+
+.service3 {
+    background-color: #5c4848;
+    color: #fff;
+}
+
+.service img {
+    width: 50%;
+}
+
+
+h1{
+    width: 35%;
+    top: 20%;
+    left: 40%;
+    transform: translate(-30%,-30%);
+    text-align: center;
+    position: absolute;
+}
+
+p{
+    width: 35%;
+    top: 32%;
+    left: 40%;
+    transform: translate(-30%,-30%);
+    text-align: center;
+    position: absolute;
+    padding: 50px 20px;
+    color: #1f1717;
+}
+
+.service4{
+    width: 50%;
+    top: 48%;
+    left: 10%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+
+.service5{
+    width: 50%;
+    top: 48%;
+    left: 40%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.service6{
+    width: 50%;
+    top: 48%;
+    left: 70%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.service7{
+    width: 50%;
+    top: 90%;
+    left: 10%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.service8{
+    width: 50%;
+    top: 90%;
+    left: 40%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.service9{
+    width: 50%;
+    top: 90%;
+    left: 70%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.hero-section{
+    margin-top:200px;
+}
+
+.service10 {
+    background: linear-gradient(rgba(112, 49, 49, 0.5), rgba(18, 17, 17, 0.5));
+    color: #fff;
+    width: 100%;
+    height: 50vh;
+    top: 130%; 
+    transform: translate(-3%,-3%); 
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.hero-img{
+    width: 10%;
+    height:250px;
+    padding: 20px;
+}
+
+.hero-img img{
+    height: 100%;
+    border-radius: 10px;
+}
+
+.image{
+    width: 10%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+
+
+
+p4{
+    width: 50%;
+}
+
+
+
+h5{
+    width: 35%;
+    top:  25%;
+    left: 15%;
+    transform: translate(-30%,-30%);
+    text-align: left;
+    position: absolute;
+}
+
+
+p5{
+    width: 35%;
+    top: 33%;
+    left: 15%;
+    transform: translate(-30%,-30%);
+    text-align: left;
+    position: absolute;
+}
+
+.footer{
+    margin-top:100px;
+}
+
+.address{
+    padding: auto;
+    width: 35%;
+    top: 80%;
+    left: 1%;
+    transform: translate(-345%,-10%);
+    text-align: left;
+   position: absolute;
+}
+
+.contact-form {
+    padding: 30px 0;
+}
+
+.main{
+    width: 35%;
+    top: 20%;
+    left: 55%;
+    transform: translate(-30%,-30%);
+    text-align: left;
+    position: absolute;
+}
+
+
+.email{
+    width: 35%;
+    top: 50%;
+    left: 55%;
+    transform: translate(-30%,-30%);
+    text-align: left;
+    position: absolute;
+}
+
+
+
+.name{
+    width: 35%;
+    top: 20%;
+    left: 80%;
+    transform: translate(-30%,-30%);
+    text-align: left;
+    position: absolute;
+}
+
+
+.service11{
+    width: 50%;
+    top: 180%;
+    left: 5%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+p6{
+    width: 35%;
+    top: 5%;
+    left: 2%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.service12{
+    width: 50%;
+    top: 180%;
+    left: 5%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+
+.service13{
+    width: 50%;
+    top: 180%;
+    left: 25%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+
+
+.buttons{
+   
+    top: 40%;
+    left: 60%;
+    transform: translate(-1%,160%);
+ 
+
+}
+
+.heading{
+    width: 35%;
+    top: 185%;
+    left: 50%;
+    transform: translate(-10%,-10%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;  
+}
+
+
+.service14{
+    width: 50%;
+    top: 200%;
+    left: 5%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+
+p7{
+    width: 35%;
+    top: 5%;
+    left: 2%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.service15{
+    width: 50%;
+    top: 200%;
+    left: 25%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.para{
+    width: 35%;
+    top: 200%;
+    left: 60%;
+    transform: translate(-10%,-10%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;  
+}
+
+.gellary {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 50%; 
+    top: 230%;
+    left: 30%;
+    transform: translate(-10%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+.gellary1 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 50%; 
+    top: 2%;
+    left: 42%;
+    transform: translate(-10%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+
+.gellary2 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 300px; 
+    top: 3%;
+    left: 43%;
+    transform: translate(-10%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+
+.gellary3 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 300px; 
+    top: 3%;
+    left: 44%;
+    transform: translate(-10%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+.gellary4 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 300px; 
+    top: 90%;
+    left: 5%;
+    transform: translate(-5%,-2%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+.gellary5 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 300px; 
+    top: 5%;
+    left: 5%;
+    transform: translate(-40%,-5%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+.gellary6 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 300px; 
+    top: 5%;
+    left: 5%;
+    transform: translate(-39%,-5%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+
+.gellary7 {
+    border-radius: 25px;
+    padding: 10px; 
+    width: 550px;
+    height: 300px; 
+    top: 5%;
+    left: 5%;
+    transform: translate(-36%,-5%);
+    text-align: left;
+    position: absolute;
+    padding: 20px 2px;
+}
+
+
+
+h6{
+    font-size: 30px;
+    left: 10%;
+    top: 125%;
+    transform: translate(-10%,-10%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px: 
+}
+
+.paragraph{
+    top: 130%;
+    left: 20%;
+    transform: translate(-10%,-10%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;  
+}
+
+iframe{
+  
+    top: 110%;
+    left: 100%;
+    transform: translate(-10%,-10%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px:   
+}
+
+
+.button{
+    top: 160%;
+    left: 15%;
+    transform: translate(-10%,-10%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.box{
+    background: linear-gradient(rgba(112, 49, 49, 0.5), rgba(18, 17, 17, 0.5));
+    color: #fff;
+    width: 1500px;
+    height: 50vh;
+    top: 230%; 
+    transform: translate(-30%,-10%); 
+    position: absolute;
+    padding: 50px 20px;
+}
+
+
+h7{
+    font-size: 50px;
+    
+
+}
+
+
+.parag{
+    top: 130%;
+    left: 70%;
+    transform: translate(-10%,-10%);
+    text-align: right;
+    position: absolute;
+    padding: 50px 20px;  
+}
+
+
+.box1{
+    background: linear-gradient(rgba(24, 23, 23, 0.5), rgba(18, 17, 17, 0.5));
+    color: #fff;
+    width: 1400px;
+    height: 40vh;
+    top: 80%; 
+    transform: translate(-48%,-10%); 
+    position: absolute;
+    padding: 50px 20px;
+}
+
+p11{
+    width: 35%;
+    top: 10%;
+    left: 60%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.email1{
+    width: 70%;
+    top: 15%;
+    left: 60%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+p10{
+    width: 35%;
+    top: 60%;
+    left: 60%;
+    transform: translate(-3%,-3%);
+    text-align: left;
+    position: absolute;
+    padding: 50px 20px;
+}
+
+.contact{
+    font-size: 25px;
+}
